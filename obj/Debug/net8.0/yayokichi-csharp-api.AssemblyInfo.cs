@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yayokichi-csharp-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c88cf24719553bef55683727f0ae414e8c233412")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66a2641c955c7e75ad2e874be778cccb688b5dc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("yayokichi-csharp-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yayokichi-csharp-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
